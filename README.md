@@ -1,4 +1,4 @@
-# Python Mini Projects
+# Python Internship Project 
 
 This repository contains simple Python projects created using basic Python concepts.
 
